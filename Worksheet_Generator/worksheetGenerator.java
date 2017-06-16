@@ -8,7 +8,7 @@ public class worksheetGenerator
         Scanner scan = new Scanner(System.in);
     	System.out.printf("Enter the higest number to use: \n");
     	int max = scan.nextInt() - 1;
-    	System.out.printf("Enter the operation to use (enter 'r' for ramdon operations): \n");
+    	System.out.printf("Enter the operation to use: \n");
         scan.nextLine();
         String operator = scan.nextLine();
         String operator_String = (String)operator;
@@ -24,9 +24,9 @@ public class worksheetGenerator
         else if("-".equalsIgnoreCase(operator)){
             operator_String = "subtraction";
         }
-        else if("r".equalsIgnoreCase(operator)){
-            operator_String = "Random";
-        }
+        // else if("r".equalsIgnoreCase(operator)){
+        //     operator_String = "Random";
+        // }
         System.out.printf("operator = %s\n", operator);
         System.out.printf("operator_String = %s\n", operator_String);
         // scan.nextLine();
