@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class newDataWorksheetGenerator
+public class staticWorksheetGenerator
 {
     public static void main(String[] args) throws FileNotFoundException
     {
@@ -11,6 +11,8 @@ public class newDataWorksheetGenerator
     	System.out.printf("Enter the operation to use (enter 'rand' or 'r' for random operations: \n");
         scan.nextLine();
         String operator = scan.nextLine();
+        System.out.printf("Enter the static number: \n");
+        int staticNum = scan.nextInt();
         String operator_String = (String)operator;
         String[] operations = {"+", "-", "x", "%"};
         if("*".equalsIgnoreCase(operator) || "x".equalsIgnoreCase(operator)){
@@ -34,8 +36,8 @@ public class newDataWorksheetGenerator
         // scan.nextLine();
         Random rand = new Random();
         int limit = max + 1;
-        String fileName = operator_String.concat("_") + limit + "_vertical.csv";
-        PrintWriter fileWriter = new PrintWriter("/mnt/c/Users/Clayton/Desktop/WorksheetGenerator/".concat(fileName));
+        String fileName = operator_String.concat("_") + limit + "_vertical_static.csv";
+        PrintWriter fileWriter = new PrintWriter("/mnt/c/Users/Clayton/Documents/GitHub/SchoolAids/Worksheet_Generator/Worksheets/".concat(fileName));
         if("Random".equalsIgnoreCase(operator_String)){
             for(int i = 0; i < 5; i++){
             fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d\n",rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1);
@@ -51,12 +53,12 @@ public class newDataWorksheetGenerator
         else{
             for(int i = 0; i < 5; i++){
             fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d\n",rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1);
-            fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n",operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1);
+            fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n",operator, staticNum, operator, staticNum, operator, staticNum, operator, staticNum, operator, staticNum);
             fileWriter.printf("\n\n");
             }
             for(int i = 0; i < 7; i++){
                 fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d\n", rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1);
-                fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n", operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1);
+                fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n", operator, staticNum, operator, staticNum, operator, staticNum, operator, staticNum, operator, staticNum, operator, staticNum, operator, staticNum, operator, staticNum, operator, staticNum, operator, staticNum);
                 fileWriter.printf("\n\n");
             }
         }

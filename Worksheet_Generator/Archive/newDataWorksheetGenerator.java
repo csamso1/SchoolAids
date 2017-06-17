@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class worksheetGenerator
+public class worksheetGenerator_mac
 {
     public static void main(String[] args) throws FileNotFoundException
     {
@@ -35,39 +35,32 @@ public class worksheetGenerator
         Random rand = new Random();
         int limit = max + 1;
         String fileName = operator_String.concat("_") + limit + "_vertical.csv";
-        PrintWriter fileWriter = new PrintWriter("/mnt/c/Users/Clayton/Documents/GitHub/SchoolAids/Worksheet_Generator/Worksheets/".concat(fileName));
+        PrintWriter fileWriter = new PrintWriter("/Users/bjgrem/Desktop/Worksheet_Generator/Worksheet_Data/".concat(fileName));
         if("Random".equalsIgnoreCase(operator_String)){
             for(int i = 0; i < 5; i++){
             fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d\n",rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1);
             fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n",operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1);
-            fileWriter.printf("\n\n");
+            fileWriter.printf("\n\n\n");
             }
             for(int i = 0; i < 7; i++){
                 fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d\n", rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1);
                 fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n", operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1, operations[rand.nextInt(4)], rand.nextInt(max) + 1);
-                fileWriter.printf("\n\n");
+                fileWriter.printf("\n\n\n");
             }
         }
         else{
-            //Declare array for numerators
-            //Declare array for denomonators
-            //Depending on operation call appropriate check method
             for(int i = 0; i < 5; i++){
             fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d\n",rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1);
             fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n",operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1);
-            fileWriter.printf("\n\n");
+            fileWriter.printf("\n\n\n");
             }
             for(int i = 0; i < 7; i++){
                 fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d\n", rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1, rand.nextInt(max) + 1);
                 fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n", operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1, operator, rand.nextInt(max) + 1);
-                fileWriter.printf("\n\n");
+                fileWriter.printf("\n\n\n");
             }
         }
         fileWriter.close();
         System.out.printf("%s created!\n", fileName);
     }
-
-    //Public static boolean checkDivision()
-
-    //Public static boolean checkSubtraction()
 }
