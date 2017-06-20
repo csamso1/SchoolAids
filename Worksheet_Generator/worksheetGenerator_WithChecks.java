@@ -147,7 +147,7 @@ public class worksheetGenerator_WithChecks
 
     //Method that regenerates subtraction problems until a non negitve solution is created
     public static void fixSubtraction(int[] nums, int[] denoms, int index){
-        while(nums[index] - denoms[index] >= 0){
+        while(nums[index] - denoms[index] <= 0){
             nums[index] = rand.nextInt(max) + 1;
             if(defineRange.equalsIgnoreCase("range")){
                 int rangeLength = upperLimit - lowerLimit;
