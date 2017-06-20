@@ -26,6 +26,7 @@ public class worksheetGenerator_WithChecks
     public static String fileName;
     public static Random rand = new Random();
     public static int staticNum;
+    public static int rangeLength;
     //End declaring varriables
 
     public static void main(String[] args) throws FileNotFoundException
@@ -78,7 +79,7 @@ public class worksheetGenerator_WithChecks
             generateProblemSet(nums1, denoms1, operators1, 5);
             preformChecks(nums1, denoms1, operators1);
             //Print statment for testing
-            System.out.printf("solveProblemSet() called from main.\n solutions1[] = %s\n", Arrays.toString(solutions1));
+            //System.out.printf("solveProblemSet() called from main.\n solutions1[] = %s\n", Arrays.toString(solutions1));
             solveProblemSet(nums1, denoms1, operators1, solutions1);
             writeTopProblemSet(nums1, denoms1, operators1, solutions1, fileWriter);
         }
@@ -99,10 +100,13 @@ public class worksheetGenerator_WithChecks
         for(int i = 0; i < numProblems; i++){
             nums[i] = rand.nextInt(max) + 1;
             if(defineRange.equalsIgnoreCase("range")){
-                int rangeLength = upperLimit - lowerLimit;
-                denoms[i] = rand.nextInt(lowerLimit) + rangeLength;
+                rangeLength = upperLimit - lowerLimit;
+                denoms[i] = lowerLimit + rand.nextInt(rangeLength + 1);
+                //Print statement for testing
+                // System.out.printf("lowerLimit = %d, upperLimit = %d, rangeLength = %d\n", lowerLimit, upperLimit, rangeLength);
+                // System.out.printf("denoms[%d] = %d\n", i, denoms[i]);
             }
-            if(defineRange.equalsIgnoreCase("y")){
+            else if(defineRange.equalsIgnoreCase("y")){
                 denoms[i] = staticNum;
             }
             else{
@@ -117,23 +121,23 @@ public class worksheetGenerator_WithChecks
             }
         }
         //Print statment for debugging
-        System.out.printf("New problem set generated!\n");
-        System.out.printf("Nums: %s \n", Arrays.toString(nums));
-        System.out.printf("Denoms: %s \n", Arrays.toString(denoms));
-        System.out.printf("Operators: %s \n", Arrays.toString(operators));
+        // System.out.printf("New problem set generated!\n");
+        // System.out.printf("Nums: %s \n", Arrays.toString(nums));
+        // System.out.printf("Denoms: %s \n", Arrays.toString(denoms));
+        // System.out.printf("Operators: %s \n", Arrays.toString(operators));
     }
 
     //Method to preform checks for viable problems
     public static void preformChecks(int[] nums, int[] denoms, String[] operators){
         //Print statment for debugging
-        System.out.printf("PreformChecks(%s, %s, %s) called!\n", Arrays.toString(nums), Arrays.toString(denoms), Arrays.toString(operators));
+        // System.out.printf("PreformChecks(%s, %s, %s) called!\n", Arrays.toString(nums), Arrays.toString(denoms), Arrays.toString(operators));
         for(int i = 0; i < nums.length; i++){
             //Print statment for debugging
-            System.out.printf("PreformChecks itteration %d has begun!\n", i);
+            // System.out.printf("PreformChecks itteration %d has begun!\n", i);
             if(operators[i].equalsIgnoreCase("-")){
                 if(nums[i] - denoms[i] <= 0){
                     //Print statment for debugging
-                    System.out.printf("fixSubtraction(%s, %s, %d) called from preformChecks.\n", Arrays.toString(nums), Arrays.toString(denoms), i);
+                    // System.out.printf("fixSubtraction(%s, %s, %d) called from preformChecks.\n", Arrays.toString(nums), Arrays.toString(denoms), i);
                     fixSubtraction(nums, denoms, i);
                 }
             }
@@ -150,10 +154,14 @@ public class worksheetGenerator_WithChecks
         while(nums[index] - denoms[index] <= 0){
             nums[index] = rand.nextInt(max) + 1;
             if(defineRange.equalsIgnoreCase("range")){
-                int rangeLength = upperLimit - lowerLimit;
-                denoms[index] = rand.nextInt(lowerLimit) + rangeLength;
+                rangeLength = upperLimit - lowerLimit;
+                denoms[index] = lowerLimit + rand.nextInt(rangeLength + 1);
+                //Print statment for testing
+                // System.out.printf("fixSubtraction is updating denoms[%d]\n", index);
+                // System.out.printf("lowerLimit = %d, upperLimit = %d, rangeLength = %d\n", lowerLimit, upperLimit, rangeLength);
+                // System.out.printf("denoms[%d] = %d\n", index, denoms[index]);
             }
-            if(defineRange.equalsIgnoreCase("y")){
+            else if(defineRange.equalsIgnoreCase("y")){
                 denoms[index] = staticNum;
             }
             else{
@@ -182,37 +190,37 @@ public class worksheetGenerator_WithChecks
     //Method to solve problems and store answers in solutions array
     public static void solveProblemSet(int[] nums, int[] denoms, String[] operators, int[] solutions){
         //Print statment for debugging
-        System.out.printf("solveProblemSet(%s, %s, %s, %s) called!\n", Arrays.toString(nums), Arrays.toString(denoms), Arrays.toString(operators), Arrays.toString(solutions));
+        // System.out.printf("solveProblemSet(%s, %s, %s, %s) called!\n", Arrays.toString(nums), Arrays.toString(denoms), Arrays.toString(operators), Arrays.toString(solutions));
         for(int i = 0; i < nums.length; i++){
             if(operators[i].equalsIgnoreCase("+")){
                 solutions[i] = nums[i] + denoms[i];
-                System.out.printf("solutions[%d] calculated, it is: %d\n", i, solutions[i]);
-                System.out.printf("nums[%d] = %d; denoms[%d] = %d\n", i, nums[i], i, denoms[i]);
+                // System.out.printf("solutions[%d] calculated, it is: %d\n", i, solutions[i]);
+                // System.out.printf("nums[%d] = %d; denoms[%d] = %d\n", i, nums[i], i, denoms[i]);
             }
             if(operators[i].equalsIgnoreCase("-")){
                 solutions[i] = nums[i] - denoms[i];
-                System.out.printf("solutions[%d] calculated, it is: %d\n", i, solutions[i]);
-                System.out.printf("nums[%d] = %d; denoms[%d] = %d\n", i, nums[i], i, denoms[i]);
+                // System.out.printf("solutions[%d] calculated, it is: %d\n", i, solutions[i]);
+                // System.out.printf("nums[%d] = %d; denoms[%d] = %d\n", i, nums[i], i, denoms[i]);
             }
             if(operators[i].equalsIgnoreCase("x")){
                 solutions[i] = nums[i] * denoms[i];
-                System.out.printf("solutions[%d] calculated, it is: %d\n", i, solutions[i]);
-                System.out.printf("nums[%d] = %d; denoms[%d] = %d\n", i, nums[i], i, denoms[i]);
+                // System.out.printf("solutions[%d] calculated, it is: %d\n", i, solutions[i]);
+                // System.out.printf("nums[%d] = %d; denoms[%d] = %d\n", i, nums[i], i, denoms[i]);
             }
             else if(operators[i].equalsIgnoreCase("%")){
                 solutions[i] = nums[i] / denoms[i];
-                System.out.printf("solutions[%d] calculated, it is: %d\n", i, solutions[i]);
-                System.out.printf("nums[%d] = %d; denoms[%d] = %d\n", i, nums[i], i, denoms[i]);
+                // System.out.printf("solutions[%d] calculated, it is: %d\n", i, solutions[i]);
+                // System.out.printf("nums[%d] = %d; denoms[%d] = %d\n", i, nums[i], i, denoms[i]);
             }
             //Print statment for debugging
-            System.out.printf("new solutions array: %s\n", Arrays.toString(solutions));
+            // System.out.printf("new solutions array: %s\n", Arrays.toString(solutions));
         }
     }
 
     //Method to write data to .CSV file for top set of problems
     public static void writeTopProblemSet(int[] nums, int[] denoms, String[] operators, int[] solutions, PrintWriter fileWriter){
         //Print statment for debugging
-        System.out.printf("writeTopProblemSet() called!\n");
+        // System.out.printf("writeTopProblemSet() called!\n");
         fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d\n",nums[0], nums[1], nums[2], nums[3], nums[4]);
         fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n",operators[0], denoms[0], operators[1], denoms[1], operators[2], denoms[2], operators[3], denoms[3], operators[4], denoms[4]);
         fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d\n", solutions[0], solutions[1], solutions[2], solutions[3], solutions[4]);
@@ -221,7 +229,7 @@ public class worksheetGenerator_WithChecks
 
     //Method to write data to .CSV file for bottom set of problems
     public static void writeBotProblemSet(int[] nums, int[] denoms, String[] operators, int[] solutions, PrintWriter fileWriter){
-        System.out.printf("writeBotProblemSet() called!\n");
+        // System.out.printf("writeBotProblemSet() called!\n");
         fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d\n", nums[0], nums[1], nums[2], nums[3], nums[4], nums[5], nums[6], nums[7], nums[8], nums[9]);
         fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n", operators[0], denoms[0], operators[1], denoms[1], operators[2], denoms[2], operators[3], denoms[3], operators[4], denoms[4], operators[5], denoms[5], operators[6], denoms[6], operators[7], denoms[7], operators[8], denoms[8], operators[9], denoms[9]);
         fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d\n", solutions[0], solutions[1], solutions[2], solutions[3], solutions[4], solutions[5], solutions[6], solutions[7], solutions[8], solutions[9]);
