@@ -36,7 +36,7 @@ public class staticWorksheetGenerator
         // scan.nextLine();
         Random rand = new Random();
         int limit = max + 1;
-        String fileName = operator_String.concat("_") + limit + "_vertical_static.csv";
+        String fileName = operator_String.concat("_") + limit + "_" + staticNum + "_vertical_static.csv";
         PrintWriter fileWriter = new PrintWriter("/mnt/c/Users/Clayton/Documents/GitHub/SchoolAids/Worksheet_Generator/Worksheets/".concat(fileName));
         if("Random".equalsIgnoreCase(operator_String)){
             for(int i = 0; i < 5; i++){
