@@ -1,0 +1,1971 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Jobs>
+  <Job>
+    <OutputFileName>AdditionRH_NA_L.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition1.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition1.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>AcroRd32</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition2.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition2.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition3.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition3.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition4.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition4.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition5.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition5.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition6.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition6.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition7.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition7.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition8.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition8.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition9.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition9.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition10.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition10.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition11.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition11.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition12.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition12.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition13.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition13.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition14.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\2RH_NA_L\Addition14.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+  <Job>
+    <OutputFileName>AdditionLH_NA_L.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition1.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition1.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>AcroRd32</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition2.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition2.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition3.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition3.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition4.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition4.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition5.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition5.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition6.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition6.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition7.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition7.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition8.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition8.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition9.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition9.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition10.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition10.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition11.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition11.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition12.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition12.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition13.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition13.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition14.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\4LH_NA_L\Addition14.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+  <Job>
+    <OutputFileName>AdditionRH_NA_S.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition1.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition1.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>AcroRd32</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition2.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition2.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition3.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition3.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition4.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition4.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition5.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition5.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition6.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition6.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition7.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition7.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition8.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition8.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition9.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition9.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition10.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition10.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition11.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition11.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition12.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition12.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition13.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition13.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition14.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\6RH_NA_S\Addition14.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+  <Job>
+    <OutputFileName>AdditionLH_NA_S.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition1.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition1.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>AcroRd32</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition2.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition2.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition3.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition3.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition4.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition4.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition5.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition5.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition6.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition6.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition7.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition7.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition8.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition8.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition9.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition9.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition10.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition10.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition11.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition11.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition12.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition12.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition13.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition13.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition14.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\8LH_NA_S\Addition14.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+  <Job>
+    <OutputFileName>AdditionRH_A_L.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition1.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition1.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>AcroRd32</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition2.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition2.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition3.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition3.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition4.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition4.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition5.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition5.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition6.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition6.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition7.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition7.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition8.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition8.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition9.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition9.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition10.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition10.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition11.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition11.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition12.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition12.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition13.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition13.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition14.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\1RH_A_L\Addition14.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+  <Job>
+    <OutputFileName>AdditionLH_A_L.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition1.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition1.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>AcroRd32</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition2.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition2.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition3.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition3.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition4.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition4.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition5.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition5.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition6.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition6.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition7.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition7.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition8.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition8.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition9.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition9.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition10.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition10.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition11.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition11.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition12.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition12.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition13.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition13.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition14.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\3LH_A_L\Addition14.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+  <Job>
+    <OutputFileName>AdditionRH_A_S.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition1.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition1.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>AcroRd32</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition2.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition2.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition3.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition3.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition4.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition4.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition5.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition5.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition6.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition6.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition7.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition7.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition8.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition8.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition9.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition9.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition10.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition10.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition11.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition11.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition12.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition12.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition13.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition13.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition14.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\5RH_A_S\Addition14.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+  <Job>
+    <OutputFileName>AdditionLH_A_S.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition1.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition1.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>AcroRd32</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition2.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition2.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition3.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition3.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition4.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition4.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition5.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition5.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition6.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition6.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition7.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition7.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition8.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition8.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition9.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition9.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition10.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition10.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition11.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition11.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition12.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition12.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition13.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition13.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition14.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\7LH_A_S\Addition14.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+</Jobs>

@@ -1,0 +1,3 @@
+cd /Users/bjgrem/Desktop/Worksheet_Generator/
+javac worksheetGenerator_WithChecks_mac.java
+java worksheetGenerator_WithChecks_mac

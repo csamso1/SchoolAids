@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class worksheetGenerator_WithChecks
+public class worksheetGenerator_WithChecks_mac
 {
     public static int max;
     public static String operator;
@@ -41,7 +41,7 @@ public class worksheetGenerator_WithChecks
         operator_String = (String)operator;
         System.out.printf("Is the denomonator a static number or static range? Provide 'Y' or 'N' or 'Range': \n");
         defineRange = scan.nextLine();
-        if(defineRange.equalsIgnoreCase("range") || defineRange.equalsIgnoreCase("r")){
+        if(defineRange.equalsIgnoreCase("range")) || defineRange.equalsIgnoreCase("r"){
             System.out.printf("Enter the lower limit of the range: \n");
             lowerLimit = scan.nextInt();
             System.out.printf("Enter the higher limit of the range: \n");
@@ -71,8 +71,8 @@ public class worksheetGenerator_WithChecks
         System.out.printf("operator = %s\n", operator);
         System.out.printf("operator_String = %s\n", operator_String);
 
-        fileName = operator_String.concat("_") + max + "_" + lowerLimit + "-" + upperLimit + "_" + staticNum + ".csv";
-        PrintWriter fileWriter = new PrintWriter("/mnt/c/Users/Clayton/Documents/GitHub/SchoolAids/Worksheet_Generator/Worksheets/".concat(fileName));
+        fileName = operator_String.concat("_") + max + "_" + lowerLimit + "-" + upperLimit + "_" + staticNum + "_vertical.csv";
+        PrintWriter fileWriter = new PrintWriter("/Users/bjgrem/Desktop/Worksheet_Generator/Worksheet_Data/".concat(fileName));
 
         //Generate top problem set and soltuions
         for(int i = 0; i < 5; i++){
@@ -224,7 +224,7 @@ public class worksheetGenerator_WithChecks
         fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d\n",nums[0], nums[1], nums[2], nums[3], nums[4]);
         fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n",operators[0], denoms[0], operators[1], denoms[1], operators[2], denoms[2], operators[3], denoms[3], operators[4], denoms[4]);
         fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d\n", solutions[0], solutions[1], solutions[2], solutions[3], solutions[4]);
-        fileWriter.printf("\n");
+        fileWriter.printf("\r");
     }
 
     //Method to write data to .CSV file for bottom set of problems
@@ -233,6 +233,6 @@ public class worksheetGenerator_WithChecks
         fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d\n", nums[0], nums[1], nums[2], nums[3], nums[4], nums[5], nums[6], nums[7], nums[8], nums[9]);
         fileWriter.printf("%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d,,%s,%d\n", operators[0], denoms[0], operators[1], denoms[1], operators[2], denoms[2], operators[3], denoms[3], operators[4], denoms[4], operators[5], denoms[5], operators[6], denoms[6], operators[7], denoms[7], operators[8], denoms[8], operators[9], denoms[9]);
         fileWriter.printf(",%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d,,,%d\n", solutions[0], solutions[1], solutions[2], solutions[3], solutions[4], solutions[5], solutions[6], solutions[7], solutions[8], solutions[9]);
-        fileWriter.printf("\n");
+        fileWriter.printf("\r");
     }
 }

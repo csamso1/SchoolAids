@@ -1,0 +1,15 @@
+#Type this once
+cd /Users/bjgrem/Desktop/Worksheet_Generator/
+#Type this once
+javac worksheetGenerator_WithChecks_mac.java
+#Type this once, then you can use up arrow to access again
+java worksheetGenerator_WithChecks_mac_test
+
+
+#To run on the Yoga
+#Type this once
+cd /mnt/c/Users/Clayton/Documents/GitHub/SchoolAids/Worksheet_Generator/
+#Type this once
+javac worksheetGenerator_WithChecks.java
+#Type this once, then you can use up arrow to access again
+java worksheetGenerator_WithChecks
