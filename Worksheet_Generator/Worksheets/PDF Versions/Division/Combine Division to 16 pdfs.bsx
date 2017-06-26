@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Jobs>
+  <Job>
+    <OutputFileName>Division1 Combined.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Division</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\1Ho_RH_NA_L\Division1_1Ho_RH_NA_L.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\1Ho_RH_NA_L\Division1_1Ho_RH_NA_L.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>AcroRd32</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\2Ho_RH_A_L\Division1_2Ho_RH_A_L.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\2Ho_RH_A_L\Division1_2Ho_RH_A_L.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\3Ho_RH_NA_S\Division1_3Ho_RH_NA_S.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\3Ho_RH_NA_S\Division1_3Ho_RH_NA_S.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\4Ho_RH_A_S\Division1_4Ho_RH_A_S.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\4Ho_RH_A_S\Division1_4Ho_RH_A_S.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\5Ho_LH_NA_L\Division1_5Ho_LH_NA_L.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\5Ho_LH_NA_L\Division1_5Ho_LH_NA_L.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\6Ho_LH_A_L\Division1_6Ho_LH_A_L.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\6Ho_LH_A_L\Division1_6Ho_LH_A_L.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\7Ho_LH_NA_S\Division1_7Ho_LH_NA_S.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\7Ho_LH_NA_S\Division1_7Ho_LH_NA_S.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\8Ho_LH_A_S\Division1_8Ho_LH_A_S.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\8Ho_LH_A_S\Division1_8Ho_LH_A_S.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\9RH_NA_L\Division1_9RH_NA_L.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\9RH_NA_L\Division1_9RH_NA_L.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\10RH_A_L\Division1_10RH_A_L.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\10RH_A_L\Division1_10RH_A_L.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\11RH_NA_S\Division1_11RH_NA_S.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\11RH_NA_S\Division1_11RH_NA_S.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\12RH_A_S\Division1_12RH_A_S.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\12RH_A_S\Division1_12RH_A_S.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\13LH_NA_L\Division1_13LH_NA_L.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\13LH_NA_L\Division1_13LH_NA_L.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\14LH_A_L\Division1_14LH_A_L.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\14LH_A_L\Division1_14LH_A_L.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\15LH_NA_S\Division1_15LH_NA_S.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\15LH_NA_S\Division1_15LH_NA_S.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\16LH_A_S\Division1_16LH_A_S.pdf</OriginalFileName>
+      <InputFileName>C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\16LH_A_S\Division1_16LH_A_S.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+</Jobs>

@@ -37,7 +37,7 @@ Sub Export_All_To_PDF()
         "C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\6Ho_LH_A_L\" & fileName & "_6Ho_LH_A_L" _
         , Quality:=xlQualityStandard, IncludeDocProperties:=True, IgnorePrintAreas _
         :=False, OpenAfterPublish:=False
-    Sheets("7Ho_LH_NA_S").Select
+    Sheets("7Ho_LH_NA_S ").Select
     ActiveSheet.ExportAsFixedFormat Type:=xlTypePDF, fileName:= _
         "C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Horizontal\7Ho_LH_NA_S\" & fileName & "_7Ho_LH_NA_S" _
         , Quality:=xlQualityStandard, IncludeDocProperties:=True, IgnorePrintAreas _
@@ -83,18 +83,13 @@ Sub Export_All_To_PDF()
         "C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\15LH_NA_S\" & fileName & "_15LH_NA_S" _
         , Quality:=xlQualityStandard, IncludeDocProperties:=True, IgnorePrintAreas _
         :=False, OpenAfterPublish:=False
-    Sheets("16LH_A_S ").Select
+    Sheets("16LH_A_S").Select
     Range("I3").Select
     ActiveSheet.ExportAsFixedFormat Type:=xlTypePDF, fileName:= _
         "C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\PDF Versions\Vertical\16LH_A_S\" & fileName & "_16LH_A_S" _
         , Quality:=xlQualityStandard, IncludeDocProperties:=True, IgnorePrintAreas _
         :=False, OpenAfterPublish:=False
 End Sub
-
-
-
-
-
 
 
 
@@ -190,23 +185,34 @@ End Sub
 
 
 
-Sub Import_CSV_Data()
+Sub Import_CSV_Data_GUI()
 '
-' Import_CSV_Data Macro
+' Import_CSV_Data_GUI Macro
 '
 
-'
     Dim csvFileName As String
-    csvFileName = Application.InputBox(Prompt:="Enter the name of the CSV file to import: ")
+    Dim intChoice As Integer
+    'only allow the user to select one file
+    Application.FileDialog(msoFileDialogOpen).AllowMultiSelect = False
+    'make the file dialog visible to the user
+    intChoice = Application.FileDialog(msoFileDialogOpen).Show
+    'determine what choice the user made
+    If intChoice <> 0 Then
+'    csvFileName = Application.InputBox(Prompt:="Enter the name of the csv file to import: ")
+    'get the file path selected by the user
+    csvFileName = Application.FileDialog( _
+    msoFileDialogOpen).SelectedItems(1)
     ChDir _
         "C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets"
-    Windows(csvFileName).Activate
     Workbooks.Open fileName:= _
-        "C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\Worksheets\" & csvFileName
+        csvFileName
+'        "C:\Users\Clayton\Documents\GitHub\SchoolAids\Worksheet_Generator\" & csvFileName & ".csv"
+    Range("A1:AC47").Select
     Selection.Copy
-    Windows("Template_Master_WithShortVersion_WithMacro.xlsm").Activate
+    Windows("Template_Master_Final.xlsm").Activate
     Sheets("Data").Select
     Range("A1").Select
     ActiveSheet.Paste
-    Sheets("RHand_WithAnswers").Select
+    Sheets("1Ho_RH_NA_L").Select
+End If
 End Sub
