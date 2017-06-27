@@ -26,7 +26,7 @@ public class worksheetGenerator_WithChecks
     public static String fileName;
     public static Random rand = new Random();
     public static int staticNum;
-    public static int rangeLength;
+    public static int rangeLength = 0;
     //End declaring varriables
 
     public static void main(String[] args) throws FileNotFoundException
@@ -99,9 +99,11 @@ public class worksheetGenerator_WithChecks
     public static void generateProblemSet(int[] nums, int[] denoms, String[] operators, int numProblems){
         for(int i = 0; i < numProblems; i++){
             nums[i] = rand.nextInt(max) + 1;
-            if(defineRange.equalsIgnoreCase("range")){
+            if(defineRange.equalsIgnoreCase("range")  || defineRange.equalsIgnoreCase("r")){
                 rangeLength = upperLimit - lowerLimit;
                 denoms[i] = lowerLimit + rand.nextInt(rangeLength + 1);
+                //Print statment for testing
+                //System.out.printf("New denom for range function generated, denoms[%d] = %d\n", i, denoms[i]);
                 //Print statement for testing
                 // System.out.printf("lowerLimit = %d, upperLimit = %d, rangeLength = %d\n", lowerLimit, upperLimit, rangeLength);
                 // System.out.printf("denoms[%d] = %d\n", i, denoms[i]);
@@ -109,7 +111,7 @@ public class worksheetGenerator_WithChecks
             else if(defineRange.equalsIgnoreCase("y")){
                 denoms[i] = staticNum;
             }
-            else{
+            else if(defineRange.equalsIgnoreCase("n")){
                 denoms[i] = rand.nextInt(max) + 1;
             }
             //Fill operations array based on user input
@@ -154,7 +156,6 @@ public class worksheetGenerator_WithChecks
         while(nums[index] - denoms[index] <= 0){
             nums[index] = rand.nextInt(max) + 1;
             if(defineRange.equalsIgnoreCase("range")){
-                rangeLength = upperLimit - lowerLimit;
                 denoms[index] = lowerLimit + rand.nextInt(rangeLength + 1);
                 //Print statment for testing
                 // System.out.printf("fixSubtraction is updating denoms[%d]\n", index);
@@ -174,14 +175,13 @@ public class worksheetGenerator_WithChecks
     public static void fixDivision(int[] nums, int[] denoms, int index){
         while(nums[index] % denoms[index] != 0){
             nums[index] = rand.nextInt(max) + 1;
-            if(defineRange.equalsIgnoreCase("range")){
-                int rangeLength = upperLimit - lowerLimit;
-                denoms[index] = rand.nextInt(lowerLimit) + rangeLength;
+            if(defineRange.equalsIgnoreCase("range") || defineRange.equalsIgnoreCase("r")){
+                denoms[index] = lowerLimit + rand.nextInt(rangeLength + 1);
             }
-            if(defineRange.equalsIgnoreCase("y")){
+            else if(defineRange.equalsIgnoreCase("y")){
                 denoms[index] = staticNum;
             }
-            else{
+            else if(defineRange.equalsIgnoreCase("n")){
                 denoms[index] = rand.nextInt(max) + 1;
             }
         }
